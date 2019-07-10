@@ -14,7 +14,7 @@
     ],
     "plugins": [
       "@babel/plugin-proposal-class-properties",
-      "syntax-dynamic-import"
+      "@babel/syntax-dynamic-import"
     ]
   },
   "keywords": [],
